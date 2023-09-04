@@ -137,7 +137,7 @@ fixed | 뷰포트 | X
 
 
 동해물과 <span style="text-decoration: underline;">백두산</span> 마르고 닳도록  
-하느님이 보우하사 우리나라 만쉐이~
+하느님이 보우하사 우리나라 만쉐이~ㅇㅂㅇ
 > 그거 아시나요 u는 underline의 약자라는걸 ㄷ
 
 <a href="https://naver.com" title="NAVER로 이동해보쟈 !" target="_black">NAVER</a>
